@@ -4,11 +4,11 @@ Session ID: ANA161
 ## Description
 Find out how the SAP Data Warehouse Cloud solution helps the line-of-business user to get the job done. Discover flexible connect features and learn how you can access data from different sources. Create an extendable business semantic model in an agile way and connect analytics and visualization components in the context of a data warehouse.
 
-## Requirements
+## Pre-Requisites
 
 Attendees are required to have Google Chrome installed on their laptop and have the ability to access GitHub to download the material.
 
-## Exercises
+## Session Resources
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
@@ -21,9 +21,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
   
-**OR** Link to the Tutorial Navigator for example...
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
 **IMPORTANT**
 
