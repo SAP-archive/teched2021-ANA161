@@ -1,16 +1,12 @@
-# Session ID - Session Title
+Explore SAP Data Warehouse Cloud from A to Z
+Session ID: ANA161
 
 ## Description
-
-This repository contains the material for the SAP TechEd 2021 session called Session ID - Session Title.  
-
-## Overview
-
-This session introduces attendees to...
+Find out how the SAP Data Warehouse Cloud solution helps the line-of-business user to get the job done. Discover flexible connect features and learn how you can access data from different sources. Create an extendable business semantic model in an agile way and connect analytics and visualization components in the context of a data warehouse.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+Attendees are required to have Google Chrome installed on their laptop and have the ability to access GitHub to download the material.
 
 ## Exercises
 
