@@ -10,8 +10,8 @@ Attendees are required to have Google Chrome installed on their laptop and have 
 
 ## Session Resources
 
-- [ANA161 - Session Exercies](exercises/SAP TechED 2021 - ANA161 - EXERCISES.pdf)
-- [ANA161 - Session Resources](exercises/SAP TechED 2021 - ANA161 - RESOURCES.zip)
+- [ANA161 - Session Exercies] (exercises/SAP TechED 2021 - ANA161 - EXERCISES.pdf)
+- [ANA161 - Session Resources] (exercises/SAP TechED 2021 - ANA161 - RESOURCES.zip)
 
 
 
