@@ -1,4 +1,4 @@
-Explore SAP Data Warehouse Cloud from A to Z
+## Explore SAP Data Warehouse Cloud from A to Z
 Session ID: ANA161
 
 ## Description
