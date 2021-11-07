@@ -8,6 +8,7 @@ Find out how the SAP Data Warehouse Cloud solution helps the line-of-business us
 Attendees are required to have Google Chrome installed on their laptop and have the ability to access GitHub to download the material.
 
 ## Session Resources
+- [ANA161 - Session Presentation Slides](SAP_TechED_2021_ANA161_Presentation.pdf)
 - [ANA161 - Session Exercies](SAP_TechED_2021_ANA161_EXERCISES.pdf)
 - [ANA161 - Session Resources](SAP_TechED_2021_ANA161_RESOURCES.zip)
 
