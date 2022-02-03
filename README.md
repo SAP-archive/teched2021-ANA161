@@ -1,5 +1,6 @@
 ## ANA161 - Explore SAP Data Warehouse Cloud from A to Z
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-ANA161)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-ANA161/)
 
 ## Description
 Find out how the SAP Data Warehouse Cloud solution helps the line-of-business user to get the job done. Discover flexible connect features and learn how you can access data from different sources. Create an extendable business semantic model in an agile way and connect analytics and visualization components in the context of a data warehouse.
