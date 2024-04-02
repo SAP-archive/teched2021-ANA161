@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
 ## ANA161 - Explore SAP Data Warehouse Cloud from A to Z
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-ANA161)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-ANA161/)
